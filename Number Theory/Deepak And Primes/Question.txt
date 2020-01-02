@@ -1,0 +1,16 @@
+DEEPAK AND PRIMES
+Deepak is learning Sieve of Eratosthenes, He is stuck somewhere. Help him printing prime numbers.
+
+Input Format:
+Single line containing integral value n.
+
+Constraints:
+1<=n<=5000000
+
+Output Format
+Integral value denoting nth prime number.
+
+Sample Input
+1
+Sample Output
+2
