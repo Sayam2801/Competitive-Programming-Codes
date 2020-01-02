@@ -1,0 +1,10 @@
+Linear Search 
+
+Generating Subarrays
+
+Kadane's Algorithm
+
+Some Important Questions :
+  		Chewbacca and Number : 		https://www.youtube.com/watch?v=bGPlHLChsxM
+		Help Ramu,Bruteforce : 		https://www.youtube.com/watch?v=CKDFPzX24BY
+		Rainwater Trapping   :		https://www.youtube.com/watch?v=Uog2Jmyb3iY
