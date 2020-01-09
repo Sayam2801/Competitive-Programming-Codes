@@ -1,0 +1,23 @@
+PAINTER PROBLEM
+You have to paint N boards of length {A0, A1, A2, A3 … AN-1}. 
+There are K painters available and you are also given how much time a painter 
+takes to paint 1 unit of board. You have to get this job done as soon as possible under 
+the constraints that any painter will only paint contiguous sections of board. 
+Return the ans % 10000003
+
+Input Format:
+1<=N<=100000 1<=K<=100000 1<=T<=1000000 1<=Li<=100000
+
+Constraints:
+1<=N<=100000 1<=K<=100000 1<=T<=1000000 1<=Li<=100000
+
+Output Format
+Return minimum time required to paint all boards % 10000003.
+
+Sample Input
+2
+2          
+5
+1 10
+Sample Output
+50
