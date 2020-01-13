@@ -1,0 +1,19 @@
+POWER(O(LOGN))
+Take as input x and n, two numbers. 
+Write a function to calculate x raise to power n. 
+Target complexity is O(logn). NOTE: Try both recursive and bitmasking approach.
+
+Input Format:
+Enter the number N and its power P
+
+Constraints:
+None
+
+Output Format
+Display N^P
+
+Sample Input
+2
+3
+Sample Output
+8
