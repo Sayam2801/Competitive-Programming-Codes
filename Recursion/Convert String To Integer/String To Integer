@@ -1,0 +1,23 @@
+package problems;
+
+import java.util.Scanner;
+
+public class indices {
+    public static int allindex(String y,int p,int index) {
+    	if(index==p)
+    		return 0;
+    	int ans=allindex(y,p,index+1);
+    	ans=Integer.parseInt(y);
+    	return ans;
+    }
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        Scanner sc=new Scanner(System.in);
+        String s=sc.nextLine();
+        int n=s.length();
+        int res=allindex(s,n,0);
+        System.out.println(res);
+        sc.close();
+	}
+
+}
